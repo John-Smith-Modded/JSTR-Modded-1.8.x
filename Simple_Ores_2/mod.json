@@ -1,0 +1,10 @@
+{
+  "mod_id": "simpleores",
+  "mod_name": "Simple Ores 2",
+  "mod_dir": "/Simple_Ores_2/",
+  "mod_version": "v1.7.3.0",
+  "mc_version": "1.8.9",
+  "mod_authors": ["AleXndrTheGr8st, Sinhika"],
+  "url_website": "http://minecraft.curseforge.com/projects/simpleores",
+  "description": "A simple ore plugin for SimpleCore API, featuring 5 unique, balanced ores."
+}
